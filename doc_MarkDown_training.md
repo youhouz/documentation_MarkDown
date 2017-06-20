@@ -61,3 +61,7 @@ Pour avoir un retour à la ligne dans le même paragraphe je termine ma ligne av
 <a name="ancres">
 
 [Retour en haut](#top)
+
+# Les images
+
+![Groot image](https://media.giphy.com/media/zIaUzG76EDzSo/giphy.gif)
